@@ -1,0 +1,10 @@
+# price data is licensed and must never be committed
+data/*
+!data/README.md
+*.zip
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv*/
